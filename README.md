@@ -4,4 +4,5 @@
 
 ## 📬 연락처
 - 🌐 [우리 프로젝트 소개](https://github.com/teamaifoodtech)
+- https://teamaifoodtech.github.io/
 
